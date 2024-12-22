@@ -2,9 +2,9 @@ Network Topology for a a new campus project
 
 (Description)
 Scenario:	
-    •	Universal Remedies is expanding their operations and have built a new campus in Salt Lake City, UT
-    •	They have regional offices in San Antonio, TX and Vancouver, BC, Canada but the headquarters are in Chicago, IL
-    •	The new campus consists of an 8,000 sq. ft. office building and a 6,000 sq. ft. laboratory building (both are single story), about a quarter mile apart (there is general landscaping, sidewalks, and a parking lot separating the two buildings).
+•	Universal Remedies is expanding their operations and have built a new campus in Salt Lake City, UT
+•	They have regional offices in San Antonio, TX and Vancouver, BC, Canada but the headquarters are in Chicago, IL
+•	The new campus consists of an 8,000 sq. ft. office building and a 6,000 sq. ft. laboratory building (both are single story), about a quarter mile apart (there is general landscaping, sidewalks, and a parking lot separating the two buildings).
 o	Office building (FloorPlan_Office.png)
   	The Regional Manager has an Administrative Assistant and 3 Secretaries
   	The 2 IT staff share an office
